@@ -1,5 +1,4 @@
-Certainly! Here's a detailed **README** file format to help you document your entire implementation, which you can later convert into a PDF. This README file will describe all the steps you followed to set up your solution and the corresponding code and configurations.
-
+ 
 ---
 
 # README: WordPress Automation Deployment with Apache, MySQL, and WP-CLI
@@ -220,23 +219,4 @@ The solution is scalable and designed to deploy multiple WordPress sites on a si
 ### Step 6: Test the Web Interface
 - Open a browser and go to `http://<VM-IP>/index.html`. Enter a domain name and submit the form to trigger the WordPress setup automation.
 
-## Submission Details
-
-### Submission 1: Before Technical Discussion
-1. **Record Your Screen**:
-   Record your screen while explaining the entire implementation, from setting up the Apache virtual host to configuring the web form for domain input.
-   
-2. **Upload to YouTube**:
-   Upload the video as **Unlisted** on YouTube and share the link with your instructor or team.
-
-### Submission 2: After Technical Discussion
-1. **Export the Virtual Machine (VM)**:
-   - In Oracle VirtualBox, go to **File > Export Appliance**.
-   - Follow the wizard to export your VM as an OVA file.
-   
-2. **Share the OVA File**:
-   - After obtaining permission from your instructor, upload the OVA file for sharing.
-   
----
-
-This README provides a clear, step-by-step guide for replicating your environment. You can save this as a PDF to document your implementation.
+ 
